@@ -24,4 +24,3 @@ The following languages ​​are the ones i plan to learn (I will check them on
 - [] TypeScript
 - [] C/C++
 - [] Ruby
-===
