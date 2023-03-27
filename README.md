@@ -16,6 +16,10 @@ These are the languages i know:
 3. CSS
 4. Perl
     * I need to remember this language a little bit
+5. C#
+6. Angular
+7. Ionic
+8. TypeScript
 
 The following languages are the ones i plan to learn (I will check them one i know how to build programgs with them):
 
